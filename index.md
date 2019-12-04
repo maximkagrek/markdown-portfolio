@@ -13,10 +13,12 @@ layout: default
 {% include 03-links.md %}
 
 <br>
-
+- putin
+* sakal
 {% include 04-lists.md %}
-- gfxgd
-* gfmdkf
+
 <br>
 
 {% include 05-emphasis.md %}
+
+<br>
