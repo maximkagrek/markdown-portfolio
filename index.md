@@ -11,12 +11,3 @@ layout: default
 <br>
 
 {% include 03-links.md %}
-
-
-<br>
-
-{% include 04-links.md %}
--puls
-*pil
-
-<br>
