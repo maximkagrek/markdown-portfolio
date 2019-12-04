@@ -15,8 +15,7 @@ layout: default
 <br>
 
 {% include 04-lists.md %}
--fdgdfg
-*kek
+-dfe
 <br>
 
 {% include 05-emphasis.md %}
